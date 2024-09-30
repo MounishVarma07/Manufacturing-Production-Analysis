@@ -6,6 +6,20 @@ Data Insights
 
 The analysis focuses on manufactured quantity, rejected quantity, produced quantity, and processed quantity across various operations, delivery timelines, and department names. Each file provides a comprehensive overview of these metrics, offering actionable insights to optimize processes.
 
+Power BI Dashboards
+
+The Power BI dashboard offers an interactive and engaging analysis with features such as:
+
+Page Navigation: Enables users to seamlessly navigate between different insights, including department performance, operations efficiency, and delivery timelines.
+
+Scrollers and Animations: Adds dynamic scrollers for real-time metric updates, along with animations to enhance visual appeal and user experience.
+
+KPI Cards: Display critical metrics like total produced, rejected, and processed quantities, alongside department-wise and operation-wise performance.
+
+Advanced Visualizations: Includes custom visuals and charts to compare trends across departments and monitor production performance.
+
+![Screenshot 2024-09-21 103518](https://github.com/user-attachments/assets/383384f3-8b6f-4561-a2f3-da1cbc609e1c)
+
 Excel Dashboards
 
 The Excel dashboard offers a detailed analysis using pivot tables to summarize the data across various dimensions. Key features include:
@@ -30,18 +44,6 @@ Filters and Parameters: Users can adjust filters for departments, operations, an
 
 ![Screenshot 2024-09-21 113748](https://github.com/user-attachments/assets/aa06cac0-4345-431b-af1b-ecd636007c5b)
 
-Power BI Dashboards
 
-The Power BI dashboard offers an interactive and engaging analysis with features such as:
-
-Page Navigation: Enables users to seamlessly navigate between different insights, including department performance, operations efficiency, and delivery timelines.
-
-Scrollers and Animations: Adds dynamic scrollers for real-time metric updates, along with animations to enhance visual appeal and user experience.
-
-KPI Cards: Display critical metrics like total produced, rejected, and processed quantities, alongside department-wise and operation-wise performance.
-
-Advanced Visualizations: Includes custom visuals and charts to compare trends across departments and monitor production performance.
-
-![Screenshot 2024-09-21 103518](https://github.com/user-attachments/assets/383384f3-8b6f-4561-a2f3-da1cbc609e1c)
 
 
